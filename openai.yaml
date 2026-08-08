@@ -1,0 +1,4 @@
+interface:
+  display_name: "复古国产动画转绘"
+  short_description: "将实拍照片重绘成低清、古朴、带颗粒的国产二维动画画面。"
+  default_prompt: "使用 $photo-to-vintage-cartoon 将这张照片转绘为低清复古的国产二维手绘动画场景。"
